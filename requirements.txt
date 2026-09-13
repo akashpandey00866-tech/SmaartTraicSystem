@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+opencv-python
+ultralytics
+fastapi
+uvicorn
+pyserial
+pydantic
